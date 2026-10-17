@@ -85,4 +85,3 @@ At the top of `flow_mini.py`:
 - `requirements.txt`: pinned direct dependencies
 - `.env`: API key configuration (do not commit it)
 - `last.wav`: most recent recording
-- `flow_mini.py.bak*`: backups of earlier versions
