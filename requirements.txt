@@ -1,0 +1,8 @@
+anthropic==1.13.0
+faster-whisper==1.2.1
+keyboard==0.13.5
+numpy==2.5.4
+opencc-python-reimplemented==0.1.7
+pyperclip==1.11.0
+pywin32==312
+sounddevice==0.5.6
