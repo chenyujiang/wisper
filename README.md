@@ -1,4 +1,4 @@
-# flow_mini — hold F9 to dictate
+# wisper — hold F9 to dictate
 
 A lightweight voice dictation tool for Windows: hold F9 and speak, release it, and the transcription is pasted into whatever window has focus.
 
